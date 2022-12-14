@@ -25,6 +25,7 @@ Census shape data: found on and maintained by NHGIS. Downloaded the 2019 acs5 ce
 
 
 **Static Map1: Hudson basic information** 
+![Map1](https://github.com/springalrilmay/CommandLineGIS_FinalProject/main/images/viz1.png?raw=true)
 <br/>The maps show a clear pattern of two spines of high population density running in a northeastern-southwestern direction. One spine is along the eastern coast in Hoboken and Jersey city, the other is parallel to it in Kearny. Between these two strips of high density are census tracts with larger area sizes and lower population density.
 
 **Static Map2: Hudson transit stops** 
