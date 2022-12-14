@@ -48,8 +48,8 @@ Census shape data: found on and maintained by NHGIS. Downloaded the 2019 acs5 ce
 <br/>To create the catchment areas, nearest nodes on the network are used as the proxies for the two set of points. Where the network is denser and more connected, the catchment is more in a shape of a complete polygon. The deeper the color, the more times the graph is covered by multiple catchment areas. 
 
 **Interactive Map** 
-The final interactive map has 5 layers in total, and can be find here. 
-1 base layer, using the map tile from CartoDB positron.
-2 choropleth map layers, 1 on census tract population density, 1 on census tract accessbility score.
-1 point layer, with 4 types of transit stops.
-1 polyline layer, with the network graph.
+<br/>The final interactive map has 5 layers in total, and can be find [here](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/map.html). 
+- 1 base layer, using the map tile from CartoDB positron.
+- 2 choropleth map layers, 1 on census tract population density, 1 on census tract accessbility score.
+- 1 point layer, with 4 types of transit stops.
+- 1 polyline layer, with the network graph.
