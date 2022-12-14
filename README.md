@@ -25,10 +25,15 @@ Census shape data: found on and maintained by NHGIS. Downloaded the 2019 acs5 ce
 
 
 **Static Map1: Hudson basic information** 
-![Map1](https://github.com/springalrilmay/CommandLineGIS_FinalProject/main/images/viz1.png?raw=true)
+
+![Map1](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/images/viz1.png?raw=true)
+
 <br/>The maps show a clear pattern of two spines of high population density running in a northeastern-southwestern direction. One spine is along the eastern coast in Hoboken and Jersey city, the other is parallel to it in Kearny. Between these two strips of high density are census tracts with larger area sizes and lower population density.
 
 **Static Map2: Hudson transit stops** 
+
+![Map2](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/images/viz2.png?raw=true)
+
 <br/>There are four types of transit running in Hudson, with a total of 1465 non-overlapping transit stops.
 - Bus stops, which account for more than 97.8% of the total transit stops, run mostly along the two population density spines. The bus network is dense and stops almost at every intersection, serving mostly local needs.
 - Light rail runs only along the eastern spine, with a total of 24 stops.
@@ -36,6 +41,10 @@ Census shape data: found on and maintained by NHGIS. Downloaded the 2019 acs5 ce
 - Hudson has two rail stations, Secaucus Junction and Lincoln Harbor Station, which serve more regional needs.
 
 **Static Map3: Catchment areas from the weighted census tract centroid and transit points**
+
+![Map3](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/images/viz3.png?raw=true)
+![Map4](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/images/viz4.png?raw=true)
+
 <br/>To create the catchment areas, nearest nodes on the network are used as the proxies for the two set of points. Where the network is denser and more connected, the catchment is more in a shape of a complete polygon. The deeper the color, the more times the graph is covered by multiple catchment areas. 
 
 **Interactive Map** 
