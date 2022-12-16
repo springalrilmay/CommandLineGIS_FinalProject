@@ -42,8 +42,7 @@ Census shape data: found on and maintained by NHGIS. Downloaded the 2019 acs5 ce
 
 **Static Map3: Catchment areas from the weighted census tract centroid and transit points**
 
-![Map3](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/images/viz3.png?raw=true)
-![Map4](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/images/viz4.png?raw=true)
+![Map3](https://github.com/springalrilmay/CommandLineGIS_FinalProject/blob/main/images/viz3&4.png?raw=true)
 
 <br/>To create the catchment areas, nearest nodes on the network are used as the proxies for the two set of points. Where the network is denser and more connected, the catchment is more in a shape of a complete polygon. The deeper the color, the more times the graph is covered by multiple catchment areas. 
 
